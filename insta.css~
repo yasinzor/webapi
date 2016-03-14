@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+body {
+  background: #EDEDED;
+}
+.popular li, .latest li {
+  display: inline-block;
+  width: 306px;
+  height: 306px;
+  margin: 0px 20px 20px 0px;
+}
+.popular, .latest {
+  width: 1004px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  font-family: 'Lato';
+  font-size: 36px;
+  padding: 20px;
+  font-weight: bold;
+  color: #4F4F4F;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+img {
+  border-radius: 10px;
+  border: 1px solid #DEDEDE;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+span {
+  font-family: 'Lato';
+  font-size: 24px;
+  text-align: center;
+  display: block;
+  padding: 10px 0px;
+}
+.searching{
+  display:none;
+
+}
+#searchbox{
+
+width: 393px;
+margin-left: auto;
+margin-right: auto;
+#box-shadow: 0 10px 10px #111111;
+}
+#search{
+width:300px;
+height:28px;
+font-weight:bold;
+border:1px solid #BDC7D8;         
+font-family: Verdana, Arial, Helvetica, sans-serif;   
+color: black;
+border-radius: 0px 0px 0px 0px;
+
+}
+#searchButton{
+	height:28px;
+	font-weight:bold;
+	#border:1px solid #BDC7D8;
+      
+   font-family: Verdana, Arial, Helvetica, sans-serif;   
+   color: black;
+   border-radius: 0px 0px 0px 0px;	
+
+.info{
+  display: inline-block;
+  text-align: center;
+  font-family: 'Lato';
+  font-weight: bold;
+  font-size: 12px;
+}
+
+}
